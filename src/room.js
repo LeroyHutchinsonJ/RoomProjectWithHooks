@@ -13,7 +13,6 @@ var Reducer = (state, action) => {
 
     case 10:
       return 0;
-
     default:
       return state;
   }
@@ -25,8 +24,8 @@ var Room = () => {
   var room = {
     padding: "20px",
     backgroundColor: "Blue",
-    marginLeft: "150px",
-    marginRight: "150px",
+    marginLeft: "120px",
+    marginRight: "120px",
     marginTop: "20px",
     opacity: state / 10
   };
