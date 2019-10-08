@@ -1,2 +1,0 @@
-# RoomProjectWithHooks
-Created with CodeSandbox
