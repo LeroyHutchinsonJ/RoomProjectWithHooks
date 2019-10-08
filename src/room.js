@@ -34,6 +34,7 @@ var Room = () => {
     <>
       <div style={room} />
       <button onClick={() => dispatch({ type: state })}>Change Light</button>
+      <button onClick={() => dispatch({ type: 10 })}>Clear button</button>
     </>
   );
 };
